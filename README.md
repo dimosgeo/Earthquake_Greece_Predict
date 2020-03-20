@@ -6,3 +6,7 @@ Data are being explorted from https://aer-nc-web.nict.go.jp/radi/data/Himawari/r
 Auto download and viualize using Robust peak detection algorithm (using z-scores) finding peak of electron signal.
 
 Predicted data appear after 3 days (~1 day Asia)(~2 days Turkey/Cyprus/Rodus)<b>(~3 days Crete/Agean/Romania)</b>(~4 days Ionion/Italia)(~5 days Italia)
+
+<img>ea20200320.png</img>
+
+<img>data.png</img>
