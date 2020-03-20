@@ -7,6 +7,6 @@ Auto download and viualize using Robust peak detection algorithm (using z-scores
 
 Predicted data appear after 3 days (~1 day Asia)(~2 days Turkey/Cyprus/Rodus)<b>(~3 days Crete/Agean/Romania)</b>(~4 days Ionion/Italia)(~5 days Italia)
 
-<img>ea20200320.png</img>
+![Comming Earthquake](https://github.com/dimosgeo/Earthquake_Greece_Predict/blob/master/ea20200320.png)
 
-<img>data.png</img>
+![Predicted Day](https://github.com/dimosgeo/Earthquake_Greece_Predict/blob/master/data.png)
