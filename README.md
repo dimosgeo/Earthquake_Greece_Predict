@@ -16,8 +16,8 @@ Predicted data appear after 3 days (~1 day Asia)(~2 days Turkey/Cyprus/Rodus)<b>
 ![Predicted Day](https://github.com/dimosgeo/Earthquake_Greece_Predict/blob/master/data.png)
 
 So...
-(~1 day Asia)=20/3 
-(~2 days Turkey/Cyprus/Rodus)=21/3
-<b>(~3 days Crete/Agean/Romania)</b>=<b>22/3</b>
-(~4 days Ionion/Italia)=23/3
-(~5 days Italia)=24/3
+(~1 day Asia)=20/3  
+(~2 days Turkey/Cyprus/Rodus)=21/3  
+<b>(~3 days Crete/Agean/Romania)</b>=<b>22/3</b>  
+(~4 days Ionion/Italia)=23/3  
+(~5 days Italia)=24/3  
