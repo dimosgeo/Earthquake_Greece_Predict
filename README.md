@@ -15,7 +15,7 @@ Predicted data appear after 3 days (~1 day Asia/India)(~2 days Turkey/Cyprus/Rod
 
 <b>Predicted Day</b>
 
-![Predicted Day](https://github.com/dimosgeo/Earthquake_Greece_Predict/blob/master/data.png)
+![Predicted Day](https://github.com/dimosgeo/Earthquake_Greece_Predict/blob/master/eq.png)
 
 <b>The earthquake</b>
 
